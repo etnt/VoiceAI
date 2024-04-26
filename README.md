@@ -14,3 +14,8 @@ pip install soundfile
 pip install nltk
 ```
 
+## Run
+
+Only the audio_generator.ipynb works atm.
+You can run it in VSCode or CoLab.
+
